@@ -25,6 +25,10 @@ int main() {
   return 0;
 }
 
+
+
+
+
 #2
 #include <stdio.h>
 
@@ -58,6 +62,10 @@ int main() {
   return 0;
 }
 
+
+
+
+
 #3
 #include <stdio.h>
 
@@ -82,6 +90,11 @@ int main() {
     
     return 0;
 }
+
+
+
+
+
 
 #4
 #include <stdio.h>
@@ -120,6 +133,10 @@ int main() {
 
   return 0;
 }
+
+
+
+
 
 #5
 #include <stdio.h>
