@@ -1,4 +1,4 @@
-#include <stdio.h>
+b   #include <stdio.h>
 
 int main() {
     int numero, antecessor, sucessor;
